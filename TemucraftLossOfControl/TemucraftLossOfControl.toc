@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: Temucraft Loss of Control
+## Notes: A retail-style alert when you are stunned, feared, silenced, rooted or locked out. /tloc
+## Author: Temucraft
+## Version: 1.0.0
+## SavedVariables: TemucraftLossOfControlDB
+
+Data.lua
+TemucraftLossOfControl.lua
